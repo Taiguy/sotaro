@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+#TaishiBox{
+    background-color:rgb(64, 103, 175);
+    color:white;
+    width:80%;
+    border-radius: 10px;
+    margin:auto;
+    overflow-wrap:break-word;
+    margin-top:20px;
+    padding:5px;
+}
+#Sotaro{
+    width:80%;
+    display:flex;
+    margin:auto;
+}
+#Sotaro button{
+    flex:1;
+    margin:5px;
+}
+#explosion{
+    width:80%;
+    margin:auto;
+}
+#explosion img{
+ width:100%;
+ border-radius: 5px;
+}
